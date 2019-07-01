@@ -1,2 +1,2 @@
 # gittest5
-gittest
+git 테스트용입니다.
